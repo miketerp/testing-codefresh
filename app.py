@@ -3,7 +3,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 
 app = dash.Dash(__name__)
-app.title = 'Hello peter'
+app.title = 'Hello peter2'
 server = app.server
 
 app.layout = html.Div([

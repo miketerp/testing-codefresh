@@ -3,11 +3,11 @@ import dash_core_components as dcc
 import dash_html_components as html
 
 app = dash.Dash(__name__)
-app.title = 'Hello peter10'
+app.title = 'Hello peter11'
 server = app.server
 
 app.layout = html.Div([
-    html.P("hello peter 10")
+    html.P("hello peter 11")
 ])
 
 

@@ -9,6 +9,7 @@ server = app.server
 app.layout = html.Div([
     html.H1("TESTING DEPLOYMENT"),
     html.P("hello peter 17"),
+    html.P("testing")
 ])
 
 
